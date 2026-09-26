@@ -1,0 +1,14 @@
+{
+  "name": "decided",
+  "displayName": "decided",
+  "version": "1.1.0",
+  "description": "Rules so it feels decided. Apple-grade brand system for sites and product films.",
+  "author": {
+    "name": "Omar Hernandez",
+    "url": "https://github.com/ohernandezdev"
+  },
+  "homepage": "https://github.com/ohernandezdev/decided",
+  "repository": "https://github.com/ohernandezdev/decided",
+  "license": "MIT",
+  "keywords": ["brand", "design", "motion", "remotion", "landing", "apple", "premium"]
+}
