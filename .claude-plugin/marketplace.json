@@ -1,0 +1,18 @@
+{
+  "name": "decided",
+  "description": "Apple-grade brand system as a Claude Code plugin. Sites and films.",
+  "owner": {
+    "name": "Omar Hernandez",
+    "url": "https://github.com/ohernandezdev"
+  },
+  "plugins": [
+    {
+      "name": "decided",
+      "source": "./",
+      "description": "Rules so it feels decided. Not the Apple costume.",
+      "version": "1.1.0",
+      "category": "productivity",
+      "homepage": "https://github.com/ohernandezdev/decided"
+    }
+  ]
+}
